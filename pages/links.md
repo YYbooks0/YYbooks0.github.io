@@ -8,7 +8,7 @@ menu: 链接
 permalink: /links/
 ---
 
-> 暂无
+> 暂无1
 
 <ul>
 {% for link in site.data.links %}
@@ -18,7 +18,7 @@ permalink: /links/
 {% endfor %}
 </ul>
 
-> 暂无
+> 暂无2
 <ul>
 {% for link in site.data.links %}
   {% if link.src == 'www' %}
