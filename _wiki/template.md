@@ -1,5 +1,5 @@
 ---
-layout: wiki
+layout: wu
 title: Wiki Template
 categories: [cate1, cate2]
 description: some word here
