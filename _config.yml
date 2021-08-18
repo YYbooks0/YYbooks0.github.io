@@ -5,9 +5,9 @@ baseurl:
 url: https://2640yang.github.io
 date_format: "ordinal"
 title: AUSTIN 
-subtitle: "未添加..."
+subtitle: "首页"
 description: “无，无"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+keywords: Austin, 2640yang
 timezone: Asia/Shanghai
 encoding: "utf-8"
 repository: 2640yang/2640yang.github.io
