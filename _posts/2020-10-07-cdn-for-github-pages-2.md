@@ -8,4 +8,4 @@ keywords: GitHub, CDN, jsdelivr
 
 *测试*
 
-![](/images/blog/下载.jfif)
+![](/images/下载.jfif)
