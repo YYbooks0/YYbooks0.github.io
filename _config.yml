@@ -138,7 +138,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: 2640yang
-    repo: blogtalk
+    repo: 2640yang.github.io
     clientID: b1e52ab9a19531f48286
     clientSecret: 9a32d3f681703223cc6a90b1c6702908afee3
 # 在使用其它评论组件时可点击显示 Disqus
