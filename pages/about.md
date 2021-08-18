@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-description: 暂无1
-keywords: 暂无2，暂无3
+title: 关于
+description: 打码改变世界
+keywords: Austin，2640yang
 comments: true
 menu: 关于
 permalink: /about/
