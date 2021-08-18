@@ -1,6 +1,5 @@
 - name: Software Engineer Keywords
   keywords:
-      - 暂无
       - C++
       - Python
       - Design Patterns
@@ -8,12 +7,11 @@
 - name: Mobile Developer Keywords
   keywords:
       - Android
-      - 暂无，
+      
 
 - name: Windows Developer Keywords
   keywords:
       - Win32 SDK
-      - 暂无
       - WTL
       - COM
       - WinDbg
