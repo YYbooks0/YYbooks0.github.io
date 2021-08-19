@@ -71,13 +71,13 @@ navs:
 #     href: /archives/
 #     label: 归档
 
-   -
-     href: /open-source/
-     label: 开源
+#   -
+#     href: /open-source/
+#     label: 开源
 
-#  -
-#    href: /wiki/
-#    label: 书评
+  -
+    href: /wiki/
+    label: 书评
 
   -
     href: /links/
