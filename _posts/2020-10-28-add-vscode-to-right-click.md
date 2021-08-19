@@ -2,9 +2,10 @@
 layout: post
 title: 《上品寒士（修改版）》
 categories: 历史军事
-description: 著:贼道三痴
-keywords: VSCode, macOS
+description: 历史军事
+keywords: 贼道三痴, 历史军事
 ---
+贼到三痴
 
 # 简介
 
