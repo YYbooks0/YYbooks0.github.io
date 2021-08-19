@@ -8,7 +8,7 @@ menu: 维基
 permalink: /wiki/
 ---
 
-> 未补充
+> 书评
 
 <ul class="listing">
 {% for wiki in site.wiki %}
