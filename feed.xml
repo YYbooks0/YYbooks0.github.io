@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://2640yang.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://2640yang.github.io/" rel="alternate" type="text/html" /><updated>2021-08-20T08:11:46+08:00</updated><id>https://2640yang.github.io/feed.xml</id><title type="html">首页</title><subtitle>“小说，书评&quot;</subtitle><author><name>austin</name></author><entry><title type="html">《上品寒士（修改版）》</title><link href="https://2640yang.github.io/2021/08/19/%E4%B8%8A%E5%93%81%E5%AF%92%E5%A3%AB-%E4%BF%AE%E6%94%B9%E7%89%88/" rel="alternate" type="text/html" title="《上品寒士（修改版）》" /><published>2021-08-19T00:00:00+08:00</published><updated>2021-08-19T00:00:00+08:00</updated><id>https://2640yang.github.io/2021/08/19/%E3%80%8A%E4%B8%8A%E5%93%81%E5%AF%92%E5%A3%AB(%E4%BF%AE%E6%94%B9%E7%89%88)%E3%80%8B</id><content type="html" xml:base="https://2640yang.github.io/2021/08/19/%E4%B8%8A%E5%93%81%E5%AF%92%E5%A3%AB-%E4%BF%AE%E6%94%B9%E7%89%88/">&lt;p&gt;&lt;em&gt;贼道三痴&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://2640yang.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://2640yang.github.io/" rel="alternate" type="text/html" /><updated>2021-08-20T08:12:20+08:00</updated><id>https://2640yang.github.io/feed.xml</id><title type="html">首页</title><subtitle>“小说，书评&quot;</subtitle><author><name>austin</name></author><entry><title type="html">《上品寒士（修改版）》</title><link href="https://2640yang.github.io/2021/08/19/%E4%B8%8A%E5%93%81%E5%AF%92%E5%A3%AB-%E4%BF%AE%E6%94%B9%E7%89%88/" rel="alternate" type="text/html" title="《上品寒士（修改版）》" /><published>2021-08-19T00:00:00+08:00</published><updated>2021-08-19T00:00:00+08:00</updated><id>https://2640yang.github.io/2021/08/19/%E3%80%8A%E4%B8%8A%E5%93%81%E5%AF%92%E5%A3%AB(%E4%BF%AE%E6%94%B9%E7%89%88)%E3%80%8B</id><content type="html" xml:base="https://2640yang.github.io/2021/08/19/%E4%B8%8A%E5%93%81%E5%AF%92%E5%A3%AB-%E4%BF%AE%E6%94%B9%E7%89%88/">&lt;p&gt;&lt;em&gt;贼道三痴&lt;/em&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;原文&quot;&gt;原文&lt;/h1&gt;
 
@@ -56,4 +56,76 @@
 
 &lt;p&gt;&lt;img src=&quot;https://www.twhjw.com/files/article/image/31/31272/31272s.jpg&quot; alt=&quot;alttext&quot; title=&quot;封面&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://1drv.stdfirm.com/t/s!Ahe6GgMZeEojbBcDrkcdlelUQI4&quot;&gt;下载&lt;/a&gt;&lt;/p&gt;</content><author><name>austin</name></author><category term="历史武侠" /><summary type="html">贼道三痴</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;http://1drv.stdfirm.com/t/s!Ahe6GgMZeEojbBcDrkcdlelUQI4&quot;&gt;下载&lt;/a&gt;&lt;/p&gt;</content><author><name>austin</name></author><category term="历史武侠" /><summary type="html">贼道三痴</summary></entry><entry><title type="html">本博客模板常见问题 Q &amp;amp; A</title><link href="https://2640yang.github.io/2020/05/03/blog-template-qna/" rel="alternate" type="text/html" title="本博客模板常见问题 Q &amp;amp; A" /><published>2020-05-03T00:00:00+08:00</published><updated>2020-05-03T00:00:00+08:00</updated><id>https://2640yang.github.io/2020/05/03/blog-template-qna</id><content type="html" xml:base="https://2640yang.github.io/2020/05/03/blog-template-qna/">&lt;p&gt;使用这个博客模板的朋友们时不时会提出一些问题，我将它们以及对应的解决方案逐渐整理归纳，汇总到这一篇帖子里。&lt;/p&gt;
+
+&lt;h2 id=&quot;如何本地预览&quot;&gt;如何本地预览&lt;/h2&gt;
+
+&lt;p&gt;参考 GitHub 的官方说明：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/&quot;&gt;Setting up your Pages site locally with Jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;本地预览报错-undefined-method-map-for-false&quot;&gt;本地预览报错 undefined method map for false&lt;/h2&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;GitHub Metadata: Failed to open TCP connection to api.github.com:443 (Connection refused - connect(2) for &quot;api.github.com&quot; port 443)
+Liquid Exception: undefined method `map' for false:FalseClass Did you mean? tap in /_layouts/page.html
+jekyll 3.8.5 | Error:  undefined method `map' for false:FalseClass
+Did you mean?  tap
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;undefined method `map` for false:FalseClass&lt;/code&gt; 这条报错之前总是伴随着 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Failed to open TCP connection to api.github.com:443&lt;/code&gt; 一起出现，是在获取 GitHub Metadata 出错后，导致这一句报错：&lt;/p&gt;
+
+&lt;div class=&quot;language-liquid highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;assign&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;repos&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;github&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;public_repositories&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;sort&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;stargazers_count&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;reverse&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;解决方法：&lt;/p&gt;
+
+&lt;p&gt;模板里主要是 _includes/sidebar-popular-repo.html 和 _pages/open-source.md 两个文件里用到了 Metadata，将以上这一句前的判断条件做一下修改后问题解决，将&lt;/p&gt;
+
+&lt;div class=&quot;language-liquid highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;github&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;public_repositories&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;改为&lt;/p&gt;
+
+&lt;div class=&quot;language-liquid highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;github&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;public_repositories&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;模板最新代码已经做了修改。&lt;/p&gt;
+
+&lt;h2 id=&quot;是否支持画流程图时序图mermaid-和-mathjax&quot;&gt;是否支持画流程图、时序图、mermaid 和 MathJax&lt;/h2&gt;
+
+&lt;p&gt;支持。因为相关的引入文件比较大可能影响加载速度，没有默认对所有文件开启，需要在要想开启的文件的 Front Matter 里加上声明：&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;flow&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;true&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;sequence&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;true&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;mermaid&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;true&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;mathjax&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;true&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;以上四个开关分别对应 flowchart.js（流程图）、sequence-diagram.js（时序图）、mermaid 和 MathJax 的支持，按需开启即可，然后就可以在正文里正常画图了，展示效果可以参见 &lt;a href=&quot;https://mazhuang.org/wiki/markdown/&quot;&gt;https://mazhuang.org/wiki/markdown/&lt;/a&gt;，对应写法参考源文件 &lt;a href=&quot;https://github.com/mzlogin/mzlogin.github.io/blob/master/_wiki/markdown.md&quot;&gt;https://github.com/mzlogin/mzlogin.github.io/blob/master/_wiki/markdown.md&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h2 id=&quot;如何修改代码高亮风格&quot;&gt;如何修改代码高亮风格&lt;/h2&gt;
+
+&lt;p&gt;可以通过 _config.yml 文件里的配置项 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;highlight_theme&lt;/code&gt; 来指定代码高亮风格，支持的风格名称列表参考我维护的另一个项目：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mzlogin/rouge-themes&quot;&gt;https://github.com/mzlogin/rouge-themes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在项目主页可以看到每种风格的预览效果。&lt;/p&gt;
+
+&lt;h2 id=&quot;gitalk-授权登录后提示-403-错误&quot;&gt;Gitalk 授权登录后提示 403 错误&lt;/h2&gt;
+
+&lt;p&gt;具体看到的错误信息为 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Error: Requrest failed with status code 403&lt;/code&gt;。&lt;/p&gt;
+
+&lt;p&gt;详细的讨论可以参考 &lt;a href=&quot;https://github.com/gitalk/gitalk/issues/429&quot;&gt;https://github.com/gitalk/gitalk/issues/429&lt;/a&gt;，这个 Issue 里也提到了问题原因和解决方案：更新 Gitalk 到 1.7.2 版本，或者自行搭建 CORS proxy service 并增加配置 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;proxy: '&amp;lt;你的 proxy 地址&amp;gt;'&lt;/code&gt;。&lt;/p&gt;
+
+&lt;p&gt;如果是使用本模板最新代码，那不用做什么，会自动引用最新版本。如果一再刷新后还是不行的话，那需要刷新一下你本地的缓存，方法是依次访问以下 2 个链接：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://purge.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js&quot;&gt;https://purge.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js?v=1.7.2&quot;&gt;https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js?v=1.7.2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>austin</name></author><category term="GitHub" /><summary type="html">使用这个博客模板的朋友们时不时会提出一些问题，我将它们以及对应的解决方案逐渐整理归纳，汇总到这一篇帖子里。</summary></entry></feed>
