@@ -144,8 +144,8 @@ gitment:
 gitalk:
     owner: YYbooks0
     repo: YYbooks0.github.io
-    clientID: a58a4977e15885ca8b25
-    clientSecret: 5bd1662801769c119de6a7c33d533b56284eb0db   
+    clientID: a0722e616b28bff4e6ce
+    clientSecret: 81770fe07eaeca76cd3a6fe186365f220478c1b6   
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
