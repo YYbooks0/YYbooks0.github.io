@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 说明
+title: About
 categories: GitHub
 description: 暂无
 keywords: 无
