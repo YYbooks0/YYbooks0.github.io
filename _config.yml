@@ -135,11 +135,11 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: 2640yang
-    repo: 2640yang.github.io
+    owner: YYbooks0
+    repo: YYbooks0.github.io
     oauth:
-        client_id:  b1e52ab9a19531f48286
-        client_secret: 4ad5ff3d5e89d6684423c3de313f90bf6fcd0d25
+        client_id: a58a4977e15885ca8b25
+        client_secret: 5bd1662801769c119de6a7c33d533b56284eb0db
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: YYbooks0
