@@ -32,7 +32,7 @@ components:
         limit: 5
     # 文章字数统计
     word_count:
-        enabled: true
+        enabled: false
     # 页面右上角，以及「关于」页面的二维码
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
