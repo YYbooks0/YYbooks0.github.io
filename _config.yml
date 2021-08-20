@@ -142,9 +142,9 @@ gitment:
         client_secret: 5bd1662801769c119de6a7c33d533b56284eb0db
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: YYbooks0
-    repo: YYbooks0.github.io
-    clientID: 985070f990672c1be1ba
+    owner: 
+    repo: 
+    clientID: 985070f990672c1be1ba
     clientSecret: 4594fa42905964b0623c9dc46c9bf0be67b871ae   
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
