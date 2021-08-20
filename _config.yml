@@ -58,6 +58,7 @@ email: 3033271348@qq.com
 # ---------------- #
 #    Navigation    #
 # ---------------- #
+
 navs:
   -
     href: /
@@ -67,9 +68,13 @@ navs:
     href: /categories/
     label: 分类
 
-   -
-     href: /archives/
-     label: 归档
+#   -
+#     href: /archives/
+#     label: 归档
+
+#   -
+#     href: /open-source/
+#     label: 开源
 
 #   -
 #     href: /open-source/
