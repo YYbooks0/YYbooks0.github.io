@@ -1,108 +1,108 @@
 # ---------------- #
-#   Main Configs   #
+#   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://2640yang.github.io
+url: https://yybooks0.github.io/
 date_format: "ordinal"
-title: 首页
-subtitle: "首页"
+title: YYbooks0
+subtitle: "小说-书评"
 description: “小说，书评"
-keywords: Austin, 2640yang
+keywords: 小说，书评
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: 2640yang/2640yang.github.io
+repository: YYbooks0/YYbooks0.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
-    jsdelivr:
-        enabled: true
+    jsdelivr:
+        enabled: true
 # 可选组件配置
 components:
-    # 分享
-    # weibo,qq,wechat,douban,qzone,linkedin,facebook,twitter
-    share:
-        enabled: true
-        hide-platforms: qq,facebook
-    # 不蒜子访问统计
-    busuanzi:
-        enabled: true
-        start_date: 2021-08-20
-    # My Popular Repositories
-    side_bar_repo:
-        enabled: false
-        limit: 5
-    # 文章字数统计
-    word_count:
-        enabled: false
-    # 页面右上角，以及「关于」页面的二维码
-    # 修改图片请替换 assets/images/qrcode.jpg
-    qrcode:
-        enabled: true
-        image_alt: 闷骚的程序员
+    # 分享
+    # weibo,qq,wechat,douban,qzone,linkedin,facebook,twitter
+    share:
+        enabled: true
+        hide-platforms: qq,facebook
+    # 不蒜子访问统计
+    busuanzi:
+        enabled: true
+        start_date: 2021-08-20
+    # My Popular Repositories
+    side_bar_repo:
+        enabled: false
+        limit: 5
+    # 文章字数统计
+    word_count:
+        enabled: false
+    # 页面右上角，以及「关于」页面的二维码
+    # 修改图片请替换 assets/images/qrcode.jpg
+    qrcode:
+        enabled: true
+        image_alt: 闷骚的程序员
 # 压缩页面内容
 compress_html:
-  clippings: all
-  comments: ["<!--", "-->"]
+  clippings: all
+  comments: ["<!--", "-->"]
 # 代码高亮风格，支持的 theme 列表见 https://github.com/mzlogin/rouge-themes
 highlight_theme: github
 
 # ---------------- #
-#      Author      #
+#      Author      #
 # ---------------- #
 author: austin
 organization: 
 organization_url: 
-github_username: 2640yang
+github_username: YYbooks0
 location: China
-email: 3033271348@qq.com
+email: 3572494049@qq.com
 
 # ---------------- #
-#    Navigation    #
+#    Navigation    #
 # ---------------- #
 
 navs:
-  -
-    href: /
-    label: 首页
+  -
+    href: /
+    label: 首页
 
-  -
-    href: /categories/
-    label: 分类
+  -
+    href: /categories/
+    label: 分类
 
-#   -
-#     href: /archives/
-#     label: 归档
+#   -
+#     href: /archives/
+#     label: 归档
 
-#   -
-#     href: /open-source/
-#     label: 开源
+#   -
+#     href: /open-source/
+#     label: 开源
 
-#   -
-#     href: /open-source/
-#     label: 开源
+#   -
+#     href: /open-source/
+#     label: 开源
 
-  -
-    href: /wiki/
-    label: 书评
+  -
+    href: /wiki/
+    label: 书评
 
-  -
-    href: /links/
-    label: 链接
+  -
+    href: /links/
+    label: 链接
 
-  -
-    href: /about/
-    label: 关于
+  -
+    href: /about/
+    label: 关于
 
 # ---------------- #
-#       RSS        #
+#       RSS        #
 # ---------------- #
 subscribe_rss: /feed.xml
 
 # ---------------- #
-#      Jekyll      #
+#      Jekyll      #
 # ---------------- #
 markdown: kramdown
 kramdown:
-    input: GFM
+    input: GFM
 highlighter: rouge
 paginate: 10
 lsi: false
@@ -110,21 +110,21 @@ quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
 plugins:
-    - jekyll-github-metadata
-    - rouge
-#     - jekyll-html-pipeline
-    - jekyll-paginate
-    - jekyll-sitemap
-    - jekyll-feed
-    - jemoji
-#     - jekyll-mentions
+    - jekyll-github-metadata
+    - rouge
+#     - jekyll-html-pipeline
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-feed
+    - jemoji
+#     - jekyll-mentions
 collections:
-    wiki:
-        output: true
-        permalink: /wiki/:path/
+    wiki:
+        output: true
+        permalink: /wiki/:path/
 
 # ---------------- #
-#      Comments    #
+#      Comments    #
 # ---------------- #
 # support provider: disqus, gitment, gitalk
 comments_provider: gitalk
@@ -132,39 +132,39 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: 
+    username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: 2640yang
-    repo: 2640yang.github.io
-    oauth:
-        client_id:  b1e52ab9a19531f48286
-        client_secret: 4ad5ff3d5e89d6684423c3de313f90bf6fcd0d25
+    owner: 2640yang
+    repo: 2640yang.github.io
+    oauth:
+        client_id:  b1e52ab9a19531f48286
+        client_secret: 4ad5ff3d5e89d6684423c3de313f90bf6fcd0d25
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: 2640yang
-    repo: 2640yang.github.io
-    clientID: b1e52ab9a19531f48286
-    clientSecret: 4ad5ff3d5e89d6684423c3de313f90bf6fcd0d25
+    owner: YYbooks0
+    repo: YYbooks0.github.io
+    clientID: a58a4977e15885ca8b25
+    clientSecret: 5bd1662801769c119de6a7c33d533b56284eb0db
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
 # ---------------- #
-#      Search      #
+#      Search      #
 # ---------------- #
 simple_jekyll_search:
-    # 是否支持全文搜索
-    fulltext: false
-    # 最多显示多少条搜索结果
-    limit: 10
+    # 是否支持全文搜索
+    fulltext: false
+    # 最多显示多少条搜索结果
+    limit: 10
 
 # ---------------- #
-#      Google      #
+#      Google      #
 # ---------------- #
 google:
-    analytics_id: UA-80669434-1
-    adsense:
-        footer: true
-        sidebar: true 
-        content_header: true
-        content_footer: false
+    analytics_id: UA-80669434-1
+    adsense:
+        footer: true
+        sidebar: true 
+        content_header: true
+        content_footer: false
