@@ -132,7 +132,7 @@ comments_provider: disqus
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus: 
-    username: disqus_zCcUsfy9PE
+    username: austin
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: YYbooks0
