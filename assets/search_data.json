@@ -86,6 +86,8 @@
   
   
   
+  
+  
 
   
     {
@@ -417,11 +419,83 @@
     } ,
   
     {
+      "title"    : "《傲视九重天》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/23/%E5%82%B2%E4%B8%96%E4%B9%9D%E9%87%8D%E5%A4%A9/",
+      "keywords" : "风凌天下，玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《冰火魔厨》",
+      "category" : "西方奇幻",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/23/%E5%86%B0%E7%81%AB%E9%AD%94%E5%8E%A8/",
+      "keywords" : "唐家三少，西方奇幻"
+    } ,
+  
+    {
+      "title"    : "《暗影神座》",
+      "category" : "网游竞技",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/23/%E6%9A%97%E5%BD%B1%E7%A5%9E%E5%BA%A7/",
+      "keywords" : "余云飞，网游竞技"
+    } ,
+  
+    {
+      "title"    : "《步步生莲》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/23/%E6%AD%A5%E6%AD%A5%E7%94%9F%E8%8E%B2/",
+      "keywords" : "月关，历史武侠"
+    } ,
+  
+    {
+      "title"    : "《炽焰之魂》",
+      "category" : "西方奇幻",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/23/%E7%82%BD%E7%84%B0%E4%B9%8B%E9%AD%82/",
+      "keywords" : "卡列颠，西方奇幻"
+    } ,
+  
+    {
+      "title"    : "《穿越之太乙仙隐》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/23/%E7%A9%BF%E8%B6%8A%E4%B9%8B%E5%A4%AA%E4%B9%99%E4%BB%99%E9%9A%90/",
+      "keywords" : "先飞，玄幻仙侠"
+    } ,
+  
+    {
       "title"    : "《篡清》",
       "category" : "历史武侠",
       
       "url"      : "https://yybooks0.github.io//2021/08/23/%E7%AF%A1%E6%B8%85/",
       "keywords" : "历史武侠，天使奥斯卡"
+    } ,
+  
+    {
+      "title"    : "《苍青之剑》",
+      "category" : "网游竞技",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/23/%E8%8B%8D%E9%9D%92%E4%B9%8B%E5%89%91/",
+      "keywords" : "幽祝，网游竞技"
+    } ,
+  
+    {
+      "title"    : "《草根石布衣》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/23/%E8%8D%89%E6%A0%B9%E7%9F%B3%E5%B8%83%E8%A1%A3/",
+      "keywords" : "中秋月明，都市冒险"
+    } ,
+  
+    {
+      "title"    : "《赤血龙骑》",
+      "category" : "西方奇幻",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/23/%E8%B5%A4%E8%A1%80%E9%BE%99%E9%AA%91/",
+      "keywords" : "虎牢，西方奇幻"
     } ,
   
     {
