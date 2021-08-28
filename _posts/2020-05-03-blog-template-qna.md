@@ -22,3 +22,8 @@ topmost: true
 # 评论功能
 
 目前只开放科学上网用户
+
+
+# 网站还在建设，感谢你的支持！
+
+![Alt](https://i.loli.net/2021/08/29/tnhbec8NUWgmAq6.jpg)
