@@ -84,6 +84,8 @@
   
   
   
+  
+  
 
   
     {
@@ -575,11 +577,83 @@
     } ,
   
     {
+      "title"    : "《大周仙吏》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/26/%E5%A4%A7%E5%91%A8%E4%BB%99%E5%90%8F/",
+      "keywords" : "玄幻仙侠，荣小荣"
+    } ,
+  
+    {
       "title"    : "《大明春色》",
       "category" : "历史武侠",
       
       "url"      : "https://yybooks0.github.io//2021/08/26/%E5%A4%A7%E6%98%8E%E6%98%A5%E8%89%B2/",
       "keywords" : "西风紧，历史武侠"
+    } ,
+  
+    {
+      "title"    : "《天可汗》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/26/%E5%A4%A9%E5%8F%AF%E6%B1%97",
+      "keywords" : "西风紧，历史武侠"
+    } ,
+  
+    {
+      "title"    : "《如意小郎君》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/26/%E5%A6%82%E6%84%8F%E5%B0%8F%E9%83%8E%E5%90%9B/",
+      "keywords" : "荣小荣，历史武侠"
+    } ,
+  
+    {
+      "title"    : "《枭臣》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/26/%E6%9E%AD%E8%87%A3/",
+      "keywords" : "更俗，历史武侠"
+    } ,
+  
+    {
+      "title"    : "《知北游》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/26/%E7%9F%A5%E5%8C%97%E6%B8%B8/",
+      "keywords" : "洛水，玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《老衲还年轻》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/26/%E8%80%81%E8%A1%B2%E8%BF%98%E5%B9%B4%E8%BD%BB/",
+      "keywords" : "端午正阳，都市冒险"
+    } ,
+  
+    {
+      "title"    : "《逍遥小书生》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/26/%E9%80%8D%E9%81%A5%E5%B0%8F%E4%B9%A6%E7%94%9F/",
+      "keywords" : "荣小荣，历史武侠"
+    } ,
+  
+    {
+      "title"    : "《邪气凛然》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/26/%E9%82%AA%E6%B0%94%E5%87%9B%E7%84%B6/",
+      "keywords" : "跳舞，都市冒险"
+    } ,
+  
+    {
+      "title"    : "《魔魂启临》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/08/26/%E9%AD%94%E9%AD%82%E5%90%AF%E4%B8%B4/",
+      "keywords" : "先飞看刀，玄幻仙侠"
     } ,
   
     {
