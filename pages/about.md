@@ -7,10 +7,6 @@ comments: true
 menu: 关于
 permalink: /about/
 ---
-维护中……
-
-暂无
-
 ## 联系
 
 <ul>
