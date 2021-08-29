@@ -909,6 +909,14 @@
     } ,
   
     {
+      "title"    : "深度探讨：《大周仙吏》的进与退",
+      "category" : "书评",
+      
+      "url"      : "https://yybooks0.github.io//wiki/2021-8-28%20%E6%B7%B1%E5%BA%A6%E6%8E%A2%E8%AE%A8%EF%BC%9A%E3%80%8A%E5%A4%A7%E5%91%A8%E4%BB%99%E5%90%8F%E3%80%8B%E7%9A%84%E8%BF%9B%E4%B8%8E%E9%80%80/",
+      "keywords" : "深度探讨,荣小荣"
+    } ,
+  
+    {
       "title"    : "深度探讨：《许仙志》的仙意",
       "category" : "书评",
       
@@ -930,14 +938,6 @@
       
       "url"      : "https://yybooks0.github.io//wiki/template/",
       "keywords" : "keyword1, keyword2"
-    } ,
-  
-    {
-      "title"    : "",
-      "category" : "",
-      
-      "url"      : "https://yybooks0.github.io/",
-      "keywords" : ""
     } 
   
 ]
