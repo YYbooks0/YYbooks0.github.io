@@ -1,13 +1,16 @@
 ---
 layout: page
 title: 关于
-description: 打码改变世界
-keywords: Austin，2640yang
+description: 关于
+keywords: About，关于
 comments: true
 menu: 关于
 permalink: /about/
 ---
 ## 联系
+
+
+
 
 <ul>
 {% for website in site.data.social %}
@@ -21,4 +24,4 @@ permalink: /about/
 {% endif %}
 </ul>
 
-
+# 目前收录
