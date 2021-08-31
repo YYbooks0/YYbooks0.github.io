@@ -24,4 +24,6 @@ permalink: /about/
 {% endif %}
 </ul>
 
-# 目前收录
+# 目前收录***120本***
+
+![Alt](https://i.loli.net/2021/08/31/UYwyQ9bFjK2q1OW.jpg)
