@@ -23,7 +23,3 @@ permalink: /about/
 </li>
 {% endif %}
 </ul>
-
-# 目前收录***120本***
-
-![Alt](https://i.loli.net/2021/08/31/9uSJUhrZEGmHATo.jpg)
