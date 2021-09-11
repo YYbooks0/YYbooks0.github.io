@@ -108,6 +108,18 @@
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
   
     {
@@ -1559,11 +1571,51 @@
     } ,
   
     {
+      "title"    : "《三国之化龙》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/06/%E4%B8%89%E5%9B%BD%E4%B9%8B%E5%8C%96%E9%BE%99/",
+      "keywords" : "鹰狐，历史武侠"
+    } ,
+  
+    {
+      "title"    : "《仙铃》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/06/%E4%BB%99%E9%93%83/",
+      "keywords" : "玄幻仙侠，紫钗恨"
+    } ,
+  
+    {
       "title"    : "《大唐酒徒》",
       "category" : "历史武侠",
       
       "url"      : "https://yybooks0.github.io//2021/09/06/%E5%A4%A7%E5%94%90%E9%85%92%E5%BE%92/",
       "keywords" : "历史武侠，格鱼"
+    } ,
+  
+    {
+      "title"    : "《天唐》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/06/%E5%A4%A9%E5%94%90/",
+      "keywords" : "历史武侠,格鱼"
+    } ,
+  
+    {
+      "title"    : "《巫师之旅》",
+      "category" : "西方奇幻",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/06/%E5%B7%AB%E5%B8%88%E4%B9%8B%E6%97%85/",
+      "keywords" : "西方奇幻,一行白鹭上青天"
+    } ,
+  
+    {
+      "title"    : "《市长大人》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/06/%E5%B8%82%E9%95%BF%E5%A4%A7%E4%BA%BA/",
+      "keywords" : "都市冒险，尝谕"
     } ,
   
     {
@@ -1575,11 +1627,427 @@
     } ,
   
     {
+      "title"    : "《斜风》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/06/%E6%96%9C%E9%A3%8E/",
+      "keywords" : "历史武侠，紫钗恨"
+    } ,
+  
+    {
+      "title"    : "《权财》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/06/%E6%9D%83%E8%B4%A2/",
+      "keywords" : "都市冒险，尝谕"
+    } ,
+  
+    {
+      "title"    : "《模拟人生者》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/06/%E6%A8%A1%E6%8B%9F%E4%BA%BA%E7%94%9F%E8%80%85/",
+      "keywords" : "都市冒险,我渴望力量"
+    } ,
+  
+    {
+      "title"    : "《没有我洗不白的魔女》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/06/%E6%B2%A1%E6%9C%89%E6%88%91%E6%B4%97%E4%B8%8D%E7%99%BD%E7%9A%84%E9%AD%94%E5%A5%B3/",
+      "keywords" : "玄幻仙侠，哀家祸灵梦"
+    } ,
+  
+    {
       "title"    : "《瓷王》",
       "category" : "历史武侠",
       
       "url"      : "https://yybooks0.github.io//2021/09/06/%E7%93%B7%E7%8E%8B/",
       "keywords" : "历史武侠,格鱼"
+    } ,
+  
+    {
+      "title"    : "《盛世官商》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/06/%E7%9B%9B%E4%B8%96%E5%AE%98%E5%95%86/",
+      "keywords" : "都市冒险,格鱼"
+    } ,
+  
+    {
+      "title"    : "《重生之玩物人生》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/06/%E9%87%8D%E7%94%9F%E4%B9%8B%E7%8E%A9%E7%89%A9%E4%BA%BA%E7%94%9F/",
+      "keywords" : "都市冒险，尝谕"
+    } ,
+  
+    {
+      "title"    : "《重生的我不需要女主》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/06/%E9%87%8D%E7%94%9F%E7%9A%84%E6%88%91%E4%B8%8D%E9%9C%80%E8%A6%81%E5%A5%B3%E4%B8%BB/",
+      "keywords" : "都市冒险,螺旋飞面"
+    } ,
+  
+    {
+      "title"    : "《银河争霸战》",
+      "category" : "科幻灵异",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/06/%E9%93%B6%E6%B2%B3%E4%BA%89%E9%9C%B8%E6%88%98/",
+      "keywords" : "科幻灵异，紫钗恨"
+    } ,
+  
+    {
+      "title"    : "《长风》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/06/%E9%95%BF%E9%A3%8E/",
+      "keywords" : "历史武侠，紫钗恨"
+    } ,
+  
+    {
+      "title"    : "《高官》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/06/%E9%AB%98%E5%AE%98/",
+      "keywords" : "都市冒险,格鱼"
+    } ,
+  
+    {
+      "title"    : "《高衙内新传》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/06/%E9%AB%98%E8%A1%99%E5%86%85%E6%96%B0%E4%BC%A0/",
+      "keywords" : "历史武侠，斩空"
+    } ,
+  
+    {
+      "title"    : "《黑旗》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/06/%E9%BB%91%E6%97%97/",
+      "keywords" : "历史武侠，紫钗恨"
+    } ,
+  
+    {
+      "title"    : "《喜欢你，和她们》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/07/%E5%96%9C%E6%AC%A2%E4%BD%A0-%E5%92%8C%E5%A5%B9%E4%BB%AC/",
+      "keywords" : "我们的幻想乡，都市冒险"
+    } ,
+  
+    {
+      "title"    : "《回档在2008》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/07/%E5%9B%9E%E6%A1%A3%E5%9C%A82008/",
+      "keywords" : "都市冒险,一只大猪蹄子"
+    } ,
+  
+    {
+      "title"    : "《我加载了恋爱游戏》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/07/%E6%88%91%E5%8A%A0%E8%BD%BD%E4%BA%86%E6%81%8B%E7%88%B1%E6%B8%B8%E6%88%8F/",
+      "keywords" : "掠过的乌鸦，都市冒险"
+    } ,
+  
+    {
+      "title"    : "《日光女神》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/07/%E6%97%A5%E5%85%89%E5%A5%B3%E7%A5%9E/",
+      "keywords" : "都市冒险,wolui"
+    } ,
+  
+    {
+      "title"    : "《母上攻略》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/07/%E6%AF%8D%E4%B8%8A%E6%94%BB%E7%95%A5/",
+      "keywords" : "都市冒险,竹影随行"
+    } ,
+  
+    {
+      "title"    : "《清茗学院》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/07/%E6%B8%85%E8%8C%97%E5%AD%A6%E9%99%A2/",
+      "keywords" : "keyprca，都市冒险"
+    } ,
+  
+    {
+      "title"    : "《琼明神女录》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/07/%E7%90%BC%E6%98%8E%E7%A5%9E%E5%A5%B3%E5%BD%95/",
+      "keywords" : "剑气长存，玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《琼明神女录（修改版）》",
+      "category" : "修改版",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/07/%E7%90%BC%E6%98%8E%E7%A5%9E%E5%A5%B3%E5%BD%95-%E4%BF%AE%E6%94%B9%E7%89%88/",
+      "keywords" : "剑气长存，修改版"
+    } ,
+  
+    {
+      "title"    : "《重生赵志敬》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/07/%E9%87%8D%E7%94%9F%E8%B5%B5%E5%BF%97%E6%95%AC/",
+      "keywords" : "历史武侠,wolui"
+    } ,
+  
+    {
+      "title"    : "《重返2008年》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/07/%E9%87%8D%E8%BF%942008%E5%B9%B4/",
+      "keywords" : "都市冒险,中二少年肤浅"
+    } ,
+  
+    {
+      "title"    : "《型月幻想乡的超越者》",
+      "category" : "西方奇幻",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/09/%E5%9E%8B%E6%9C%88%E5%B9%BB%E6%83%B3%E4%B9%A1%E7%9A%84%E8%B6%85%E8%B6%8A%E8%80%85/",
+      "keywords" : "朱之月，西方奇幻"
+    } ,
+  
+    {
+      "title"    : "《一点也不超级的机器人大战》",
+      "category" : "科幻灵异",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/09/%E4%B8%80%E7%82%B9%E4%B9%9F%E4%B8%8D%E8%B6%85%E7%BA%A7%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E6%88%98/",
+      "keywords" : "也闲,科幻灵异"
+    } ,
+  
+    {
+      "title"    : "《佣兵天下》",
+      "category" : "西方奇幻",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/09/%E4%BD%A3%E5%85%B5%E5%A4%A9%E4%B8%8B/",
+      "keywords" : "说不得大师，西方奇幻"
+    } ,
+  
+    {
+      "title"    : "《偷香高手》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/09/%E5%81%B7%E9%A6%99%E9%AB%98%E6%89%8B/",
+      "keywords" : "六如和尚,历史武侠"
+    } ,
+  
+    {
+      "title"    : "《我的脑中有个好感度系统》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/09/%E6%88%91%E7%9A%84%E8%84%91%E4%B8%AD%E6%9C%89%E4%B8%AA%E5%A5%BD%E6%84%9F%E5%BA%A6%E7%B3%BB%E7%BB%9F/",
+      "keywords" : "土见凛，都市冒险"
+    } ,
+  
+    {
+      "title"    : "《我真不想读档》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/09/%E6%88%91%E7%9C%9F%E4%B8%8D%E6%83%B3%E8%AF%BB%E6%A1%A3/",
+      "keywords" : "一文倒，都市冒险"
+    } ,
+  
+    {
+      "title"    : "《月影霜华》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/09/%E6%9C%88%E5%BD%B1%E9%9C%9C%E5%8D%8E/",
+      "keywords" : "江东孙伯父，玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《武侠世界大拯救》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/09/%E6%AD%A6%E4%BE%A0%E4%B8%96%E7%95%8C%E5%A4%A7%E6%8B%AF%E6%95%91/",
+      "keywords" : "殊彦，历史武侠"
+    } ,
+  
+    {
+      "title"    : "《花嫁》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/09/%E8%8A%B1%E5%AB%81/",
+      "keywords" : "后会X无期，都市冒险"
+    } ,
+  
+    {
+      "title"    : "《遮天》",
+      "category" : "玄幻",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/09/%E9%81%AE%E5%A4%A9/",
+      "keywords" : "辰东,玄幻"
+    } ,
+  
+    {
+      "title"    : "《佛本是道》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E4%BD%9B%E6%9C%AC%E6%98%AF%E9%81%93/",
+      "keywords" : "梦入神机,玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《回档少年时》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E5%9B%9E%E6%A1%A3%E5%B0%91%E5%B9%B4%E6%97%B6/",
+      "keywords" : "邓丁,都市冒险"
+    } ,
+  
+    {
+      "title"    : "《圣王》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E5%9C%A3%E7%8E%8B/",
+      "keywords" : "梦入神机,玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《姑娘你不对劲啊》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E5%A7%91%E5%A8%98%E4%BD%A0%E4%B8%8D%E5%AF%B9%E5%8A%B2%E5%95%8A/",
+      "keywords" : "幽祝,玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《完美世界》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C/",
+      "keywords" : "辰东,玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《我的女友来自扶桑》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E6%88%91%E7%9A%84%E5%A5%B3%E5%8F%8B%E6%9D%A5%E8%87%AA%E6%89%B6%E6%A1%91/",
+      "keywords" : "涼城听雨,都市冒险"
+    } ,
+  
+    {
+      "title"    : "《我真是大明星》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E6%88%91%E7%9C%9F%E6%98%AF%E5%A4%A7%E6%98%8E%E6%98%9F/",
+      "keywords" : "尝谕,都市冒险"
+    } ,
+  
+    {
+      "title"    : "《星河大帝》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E6%98%9F%E6%B2%B3%E5%A4%A7%E5%B8%9D/",
+      "keywords" : "梦入神机,玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《暴风法神》",
+      "category" : "西方奇幻",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E6%9A%B4%E9%A3%8E%E6%B3%95%E7%A5%9E/",
+      "keywords" : "余云飞,西方奇幻"
+    } ,
+  
+    {
+      "title"    : "《梦幻兑换系统》",
+      "category" : "科幻灵异",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E6%A2%A6%E5%B9%BB%E5%85%91%E6%8D%A2%E7%B3%BB%E7%BB%9F/",
+      "keywords" : "墨梦尘,科幻灵异"
+    } ,
+  
+    {
+      "title"    : "《永生》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E6%B0%B8%E7%94%9F/",
+      "keywords" : "梦入神机,玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《点道为止》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E7%82%B9%E9%81%93%E4%B8%BA%E6%AD%A2/",
+      "keywords" : "梦入神机,都市冒险"
+    } ,
+  
+    {
+      "title"    : "《电影世界冒险王》",
+      "category" : "科幻灵异",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E7%94%B5%E5%BD%B1%E4%B8%96%E7%95%8C%E5%86%92%E9%99%A9%E7%8E%8B/",
+      "keywords" : "补丁1号.CS,科幻灵异"
+    } ,
+  
+    {
+      "title"    : "《神墓》",
+      "category" : "玄幻",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E7%A5%9E%E5%A2%93/",
+      "keywords" : "辰东,玄幻"
+    } ,
+  
+    {
+      "title"    : "《超凡黎明》",
+      "category" : "网游竞技",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E8%B6%85%E5%87%A1%E9%BB%8E%E6%98%8E/",
+      "keywords" : "文抄公,网游竞技"
+    } ,
+  
+    {
+      "title"    : "《长生界》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E9%95%BF%E7%94%9F%E7%95%8C/",
+      "keywords" : "辰东,玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《阳神》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E9%98%B3%E7%A5%9E/",
+      "keywords" : "梦入神机,玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《黑山老妖》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E9%BB%91%E5%B1%B1%E8%80%81%E5%A6%96/",
+      "keywords" : "梦入神机,玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《龙符》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E9%BE%99%E7%AC%A6/",
+      "keywords" : "梦入神机,玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《龙蛇演义》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/10/%E9%BE%99%E8%9B%87%E6%BC%94%E4%B9%89/",
+      "keywords" : "梦入神机,玄幻仙侠"
     } ,
   
     {
