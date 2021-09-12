@@ -122,6 +122,8 @@
   
   
   
+  
+  
 
   
     {
@@ -1886,10 +1888,10 @@
   
     {
       "title"    : "《遮天》",
-      "category" : "玄幻",
+      "category" : "玄幻仙侠",
       
       "url"      : "https://yybooks0.github.io//2021/09/09/%E9%81%AE%E5%A4%A9/",
-      "keywords" : "辰东,玄幻"
+      "keywords" : "辰东,玄幻仙侠"
     } ,
   
     {
@@ -2130,6 +2132,86 @@
       
       "url"      : "https://yybooks0.github.io//2021/09/11/%E9%9B%B7%E9%9C%86%E4%B9%8B%E4%B8%BB/",
       "keywords" : "萧舒,历史武侠"
+    } ,
+  
+    {
+      "title"    : "《家养小仙女》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/12/%E5%AE%B6%E5%85%BB%E5%B0%8F%E4%BB%99%E5%A5%B3/",
+      "keywords" : "寂寞的化石,都市冒险"
+    } ,
+  
+    {
+      "title"    : "《我在末世有套房》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/12/%E6%88%91%E5%9C%A8%E6%9C%AB%E4%B8%96%E6%9C%89%E5%A5%97%E6%88%BF/",
+      "keywords" : "晨星LL,都市冒险"
+    } ,
+  
+    {
+      "title"    : "《我老婆是重生大BOSS》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/12/%E6%88%91%E8%80%81%E5%A9%86%E6%98%AF%E9%87%8D%E7%94%9F%E5%A4%A7BOSS/",
+      "keywords" : "奈何笑忘川,历史武侠"
+    } ,
+  
+    {
+      "title"    : "《武魂》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/12/%E6%AD%A6%E9%AD%82/",
+      "keywords" : "枫落忆痕,玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《画魂》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/12/%E7%94%BB%E9%AD%82/",
+      "keywords" : "空手套，都市冒险"
+    } ,
+  
+    {
+      "title"    : "《重生之我是BOSS》",
+      "category" : "网游竞技",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/12/%E9%87%8D%E7%94%9F%E4%B9%8B%E6%88%91%E6%98%AFBOSS/",
+      "keywords" : "不是浮云,网游竞技"
+    } ,
+  
+    {
+      "title"    : "《重生之贼行天下》",
+      "category" : "网游竞技",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/12/%E9%87%8D%E7%94%9F%E4%B9%8B%E8%B4%BC%E8%A1%8C%E5%A4%A9%E4%B8%8B/",
+      "keywords" : "发飙的蜗牛,网游竞技"
+    } ,
+  
+    {
+      "title"    : "《金牌小书童》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/12/%E9%87%91%E7%89%8C%E5%B0%8F%E4%B9%A6%E7%AB%A5/",
+      "keywords" : "汰笑洒,历史武侠"
+    } ,
+  
+    {
+      "title"    : "《魔境主宰》",
+      "category" : "网游竞技",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/12/%E9%AD%94%E5%A2%83%E4%B8%BB%E5%AE%B0/",
+      "keywords" : "中二的菌菇,网游竞技"
+    } ,
+  
+    {
+      "title"    : "《魔界的女婿》",
+      "category" : "西方奇幻",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/12/%E9%AD%94%E7%95%8C%E7%9A%84%E5%A5%B3%E5%A9%BF/",
+      "keywords" : "点精灵,西方奇幻"
     } ,
   
     {
