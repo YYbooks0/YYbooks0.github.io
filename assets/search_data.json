@@ -148,6 +148,8 @@
   
   
   
+  
+  
 
   
     {
@@ -3047,6 +3049,22 @@
     } ,
   
     {
+      "title"    : "《不能接受她们的告白》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/19/%E4%B8%8D%E8%83%BD%E6%8E%A5%E5%8F%97%E5%A5%B9%E4%BB%AC%E7%9A%84%E5%91%8A%E7%99%BD/",
+      "keywords" : "黑暗骑士殿,都市冒险"
+    } ,
+  
+    {
+      "title"    : "《不被我曾经的妹子们讨厌就会死？》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/19/%E4%B8%8D%E8%A2%AB%E6%88%91%E6%9B%BE%E7%BB%8F%E7%9A%84%E5%A6%B9%E5%AD%90%E4%BB%AC%E8%AE%A8%E5%8E%8C%E5%B0%B1%E4%BC%9A%E6%AD%BB/",
+      "keywords" : "黑暗骑士殿,都市冒险"
+    } ,
+  
+    {
       "title"    : "《东京猛男要什么恋爱日常》",
       "category" : "都市冒险",
       
@@ -3068,6 +3086,14 @@
       
       "url"      : "https://yybooks0.github.io//2021/09/19/%E5%90%8D%E9%97%A8/",
       "keywords" : "高月,历史武侠"
+    } ,
+  
+    {
+      "title"    : "《在日本当学神的日子》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/19/%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%BD%93%E5%AD%A6%E7%A5%9E%E7%9A%84%E6%97%A5%E5%AD%90/",
+      "keywords" : "黑暗骑士殿,都市冒险"
     } ,
   
     {
@@ -3119,6 +3145,14 @@
     } ,
   
     {
+      "title"    : "《宋仕妖娆》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/19/%E5%AE%8B%E4%BB%95%E5%A6%96%E5%A8%86/",
+      "keywords" : "何时秋风悲画扇,历史武侠"
+    } ,
+  
+    {
       "title"    : "《宋王》",
       "category" : "历史武侠",
       
@@ -3135,6 +3169,22 @@
     } ,
   
     {
+      "title"    : "《斗罗之皇龙惊世》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/19/%E6%96%97%E7%BD%97%E4%B9%8B%E7%9A%87%E9%BE%99%E6%83%8A%E4%B8%96/",
+      "keywords" : "风行云亦行,玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《无限取代》",
+      "category" : "科幻灵异",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/19/%E6%97%A0%E9%99%90%E5%8F%96%E4%BB%A3/",
+      "keywords" : "天凰羽,科幻灵异"
+    } ,
+  
+    {
       "title"    : "《晚宋》",
       "category" : "历史武侠",
       
@@ -3148,6 +3198,14 @@
       
       "url"      : "https://yybooks0.github.io//2021/09/19/%E6%9C%AB%E6%97%A5%E8%9F%91%E8%9E%82/",
       "keywords" : "伟岸蟑螂,科幻灵异"
+    } ,
+  
+    {
+      "title"    : "《柯南之最强大叔》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/19/%E6%9F%AF%E5%8D%97%E4%B9%8B%E6%9C%80%E5%BC%BA%E5%A4%A7%E5%8F%94/",
+      "keywords" : "孤城家的阿流,都市冒险"
     } ,
   
     {
@@ -3175,11 +3233,35 @@
     } ,
   
     {
+      "title"    : "《绝世武神》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/19/%E7%BB%9D%E4%B8%96%E6%AD%A6%E7%A5%9E/",
+      "keywords" : "净无痕,玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《职业者的曙光》",
+      "category" : "西方奇幻",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/19/%E8%81%8C%E4%B8%9A%E8%80%85%E7%9A%84%E6%9B%99%E5%85%89/",
+      "keywords" : "蓝莓夜幕,西方奇幻"
+    } ,
+  
+    {
       "title"    : "《裁决》",
       "category" : "西方奇幻",
       
       "url"      : "https://yybooks0.github.io//2021/09/19/%E8%A3%81%E5%86%B3/",
       "keywords" : "七十二编,西方奇幻"
+    } ,
+  
+    {
+      "title"    : "《逐艳人生》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/19/%E9%80%90%E8%89%B3%E4%BA%BA%E7%94%9F/",
+      "keywords" : "彬临城下,都市冒险"
     } ,
   
     {
