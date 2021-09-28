@@ -152,6 +152,8 @@
   
   
   
+  
+  
 
   
     {
@@ -3291,11 +3293,27 @@
     } ,
   
     {
+      "title"    : "《十国帝王》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/20/%E5%8D%81%E5%9B%BD%E5%B8%9D%E7%8E%8B/",
+      "keywords" : "我是蓬蒿人,历史武侠"
+    } ,
+  
+    {
       "title"    : "《召唤美女军团》",
       "category" : "玄幻仙侠",
       
       "url"      : "https://yybooks0.github.io//2021/09/20/%E5%8F%AC%E5%94%A4%E7%BE%8E%E5%A5%B3%E5%86%9B%E5%9B%A2/",
       "keywords" : "写字板,玄幻仙侠"
+    } ,
+  
+    {
+      "title"    : "《国色生枭》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/20/%E5%9B%BD%E8%89%B2%E7%94%9F%E6%9E%AD/",
+      "keywords" : "沙漠,历史武侠"
     } ,
   
     {
@@ -3331,6 +3349,30 @@
     } ,
   
     {
+      "title"    : "《护花高手在都市》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/20/%E6%8A%A4%E8%8A%B1%E9%AB%98%E6%89%8B%E5%9C%A8%E9%83%BD%E5%B8%82/",
+      "keywords" : "心在流浪,都市冒险"
+    } ,
+  
+    {
+      "title"    : "《最终救赎》",
+      "category" : "科幻灵异",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/20/%E6%9C%80%E7%BB%88%E6%95%91%E8%B5%8E/",
+      "keywords" : "诸生浮屠,科幻灵异"
+    } ,
+  
+    {
+      "title"    : "《正版修仙》",
+      "category" : "玄幻仙侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/20/%E6%AD%A3%E7%89%88%E4%BF%AE%E4%BB%99/",
+      "keywords" : "叶恨水,玄幻仙侠"
+    } ,
+  
+    {
       "title"    : "《比蒙传奇》",
       "category" : "西方奇幻",
       
@@ -3347,6 +3389,30 @@
     } ,
   
     {
+      "title"    : "《猛龙过江》",
+      "category" : "网游竞技",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/20/%E7%8C%9B%E9%BE%99%E8%BF%87%E6%B1%9F/",
+      "keywords" : "骷髅精灵,网游竞技"
+    } ,
+  
+    {
+      "title"    : "《草清》",
+      "category" : "历史武侠",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/20/%E8%8D%89%E6%B8%85/",
+      "keywords" : "草上匪,历史武侠"
+    } ,
+  
+    {
+      "title"    : "《蛋王》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/20/%E8%9B%8B%E7%8E%8B/",
+      "keywords" : "蒙古小哒子,都市冒险"
+    } ,
+  
+    {
       "title"    : "《诱香蛊皇》",
       "category" : "玄幻仙侠",
       
@@ -3360,6 +3426,22 @@
       
       "url"      : "https://yybooks0.github.io//2021/09/20/%E8%AF%B8%E5%A4%A9%E5%B0%BD%E5%A4%B4/",
       "keywords" : "凤嘲凰,科幻灵异"
+    } ,
+  
+    {
+      "title"    : "《重生之大企业家》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/20/%E9%87%8D%E7%94%9F%E4%B9%8B%E5%A4%A7%E4%BC%81%E4%B8%9A%E5%AE%B6/",
+      "keywords" : "我杀破狼,都市冒险"
+    } ,
+  
+    {
+      "title"    : "《重生之超级金融帝国》",
+      "category" : "都市冒险",
+      
+      "url"      : "https://yybooks0.github.io//2021/09/20/%E9%87%8D%E7%94%9F%E4%B9%8B%E8%B6%85%E7%BA%A7%E9%87%91%E8%9E%8D%E5%B8%9D%E5%9B%BD/",
+      "keywords" : "陌上猪猪,都市冒险"
     } ,
   
     {
